@@ -2,7 +2,8 @@
 What's on the menu?
 
 ## tools
-node.js - http://nodejs.org/
-express - http://expressjs.com/
-jade - http://jade-lang.com/
-less - http://lesscss.org/
+-[node.js](http://nodejs.org/)
+-[express](http://expressjs.com/)
+-[jade](http://jade-lang.com/)
+-[less](http://lesscss.org/)
+-[markdown](http://daringfireball.net/projects/markdown/)
