@@ -1,8 +1,8 @@
 {
-  "name": "node-test",
-  "version": "0.0.2",
+  "name": "meznu",
+  "version": "0.0.1",
   "dependencies": {
-    "express": "2.4.5",
-    "jade": "0.22.0"
+    "express": "2.5.9",
+    "jade": "0.25.0"
   }
 }
